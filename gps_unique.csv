@@ -1,4 +1,4 @@
-﻿time_bucket2_gps,GPS_TIME,Latitude,lat_direction,longitude,lon_direction,altitude,alt_unit
+﻿time,GPS_TIME,Latitude,lat_direction,longitude,lon_direction,altitude,alt_unit
 62,152825.086,3921.5444,N,11234.5661,W,1404.5,M
 64,152827,3921.5438,N,11234.5656,W,1408.1,M
 65,152828,3921.5434,N,11234.5657,W,1410.7,M
