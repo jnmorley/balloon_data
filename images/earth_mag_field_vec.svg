@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/jmorley/Documents/ballon_data/earth_mag_field_lines.png"
+   inkscape:export-xdpi="99.616798"
+   inkscape:export-ydpi="99.616798"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="earth_mag_field.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect819"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="408.13647"
+     inkscape:cy="548.57143"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:0.62999998;fill:#ffffff;fill-opacity:0.50196078;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078"
+       id="path815"
+       cx="55.562504"
+       cy="154.125"
+       rx="35.529762"
+       ry="35.907738" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 108.85714,116.32738 C 119.00639,97.1071 137.63899,82.568023 158.75,77.395831 c 14.15996,-3.469187 29.30267,-2.817646 43.11572,1.844911 13.81305,4.662557 26.25067,13.319231 35.4288,24.646268 9.17813,11.32703 15.06745,25.28607 16.78712,39.76304 1.71968,14.47697 -0.73459,29.42429 -6.98363,42.59582 -6.24904,13.17154 -16.27139,24.52519 -28.56004,32.36923 -12.28865,7.84404 -26.80349,12.15445 -41.38152,12.29956 -14.57802,0.14512 -29.17299,-3.87419 -41.62696,-11.45302 -12.45396,-7.57882 -22.72855,-18.69228 -29.31818,-31.69676 -0.12734,-0.25131 -0.25334,-0.50329 -0.37798,-0.75595"
+       id="path817"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect819"
+       inkscape:original-d="M 108.85714,116.32738 C 125.48836,103.34993 142.11931,90.372749 158.75,77.395831 175.38068,64.418916 123.72447,150.97493 106.21131,187.76488 c -17.513162,36.78994 -0.25172,-0.50423 -0.37798,-0.75595"
+       transform="translate(-53.672619,1.889881)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="108.24416"
+       y="65.277321"
+       id="text823"><tspan
+         sodipodi:role="line"
+         id="tspan821"
+         x="108.24416"
+         y="65.277321"
+         style="stroke-width:0.26458332;font-size:4.23333333px;">Magnetic field line</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.95302,67.415475 c -0.0888,2.583342 -0.17791,5.166945 -0.26726,7.750815"
+       id="path827"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 126.68576,75.166288 Z"
+       id="path829"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.29841,72.760866 -5.61265,2.405422 -6.1472,-2.939963"
+       id="path831"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.408688"
+       y="139.04372"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="33.408688"
+         y="139.04372"
+         style="stroke-width:0.26458332">Earth</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.384827,153.74353 175.59608,97.616932"
+       id="path837"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.38231"
+       y="123.2748"
+       id="text841"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="110.38231"
+         y="123.2748"
+         style="stroke-width:0.26458332">r</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.384827,153.74353 H 200.98668"
+       id="path843"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.70058,153.74353 c 2.13815,-5.61266 6.1472,-12.02713 -3.741778,-21.9161"
+       id="path845"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-113.70553"
+       y="-142.1391"
+       id="text849"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="-113.70553"
+         y="-142.1391"
+         style="stroke-width:0.26458332">y</tspan></text>
+  </g>
+</svg>
